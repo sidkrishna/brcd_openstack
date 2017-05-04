@@ -1,0 +1,7 @@
+---
+ref : brcd_openstack
+name : brcd_openstack 
+description : Brocade Openstack 
+version : 0.1.0
+author : Ritesh Madapurath
+email : rmadapur@brocade.com 
